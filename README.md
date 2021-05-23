@@ -3,13 +3,13 @@
 ---
 # how to use?
 1. [Python](https://www.python.org/)をインストールしてください。
-1. 'pip install pyparclip'を実行してください。
-1. 'python dsrandom.py'を実行してください。
+1. `pip install pyparclip`を実行してください。
+1. `python dsrandom.py`を実行してください。
 1. ビットと範囲を入力するだけでparコードがクリップボードにコピーされるのでそれをチートコードの欄に貼り付けてください。
 ---
 # 使えるソフト
-desmumeでは使えると思います
-その他は分かりません
+desmumeでは使えると思います。
+その他は分かりません。
 ---
 # 今後追加したいもの
 - GUI化
