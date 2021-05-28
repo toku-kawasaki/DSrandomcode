@@ -1,10 +1,10 @@
 import pyperclip as pc
 import classes as cl
 
-DSc = cl.randode()
+DSc = cl.randkotei()
 lis = []
 inp_bit = input("コードのビットを入力してください(2=8bit,1=16bit,0=32bit)：")
-inp_cnt = int(input("コードの範囲を入力してください："))
+inp_cnt = int(input("コードの個数を入力してください："))
 
 if inp_bit == "2":
     for _ in range(inp_cnt):
