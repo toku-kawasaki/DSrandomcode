@@ -1,6 +1,6 @@
 import random as ra
 
-class randode:
+class randkotei:
     a = "0x2000000"
     b = "0x23FFFFF"
     def rand8bit(self):
